@@ -87,7 +87,7 @@ function App(): React.JSX.Element {
             <DebugInstructions />
           </Section>
           <Section title="Learn More">
-            Read the docs to discover what to do next: 3453533423432
+            Read the docs to discover what to do next:
           </Section>
           <LearnMoreLinks />
         </View>
